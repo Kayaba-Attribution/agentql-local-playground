@@ -1,0 +1,150 @@
+{
+  "profile": {
+    "name": "Jody Glidden",
+    "headline": "Founder @ Postilize, Founder and Former CEO Introhive",
+    "currentPosition": {
+      "title": "Founder and CEO",
+      "company": "Postilize",
+      "duration": "Feb 2023 - Present u00b7 1 yr 11 mos"
+    },
+    "about": "Jody Glidden is a serial entrepreneur and an innovator in the field of generative AI, which uses machine learning to create engaging and personalized content for enterprises. He is the founder and CEO of Postilize, a company that launched in April 2023 and is changing how businesses build their base of loyal customers.\n\nWith over 25 years of experience in founding and leading B2B technology companies, Jody has a track record of delivering value, growth, and innovation to his clients and partners. He was also the founder of Introhive, the fastest growing revenue acceleration system that applies machine learning and automation to CRM. Introhive has won multiple awards and recognition, and is used by some of the world's largest and most secure companies. Jody is passionate about product, sales technology, and is always eager to learn, teach, and build. He is an E&Y Entrepreneur of the year finalist and holds multiple patents in many fields of software.",
+    "experience": [
+      {
+        "title": "Founder and CEO",
+        "company": "Postilize",
+        "duration": "Feb 2023 - Present u00b7 1 yr 11 mos",
+        "description": "Postilize uses generative AI to change how enterprises build their brand and base of loyal customers.\nWe just launched at the end of April and are excited to show the world a new and better way to build and scale their business.\nJoin our waitlist to try us out at http://www.postilize.com"
+      },
+      {
+        "title": "Founder",
+        "company": "Introhive",
+        "duration": "Dec 2011 - Present u00b7 13 yrs 1 mo",
+        "description": "No longer working at Introhive\nIntrohive applies machine learning and automation to help turn CRM from a system of record to a system of value.  The technology measures meaningful relationships between companies and their clients and provides customer intelligence to teams.\nIt's used by some of the world's largest and most secure companies such as banks, law firms, global systems integrators, global accounting firms, and some of the hottest companies in Silicon Valley.\nFollow me on twitter @jodyglidden"
+      },
+      {
+        "title": "Transition after acquisition",
+        "company": "Research In Motion",
+        "duration": "Sep 2010 - Dec 2011 u00b7 1 yr 4 mos",
+        "description": "After being acquired by Research in motion (BlackBerry), I lead all content products for a period of time before launching Introhive."
+      },
+      {
+        "title": "COO and CTO, Board Member",
+        "company": "Chalk Media (Acquired)",
+        "duration": "May 2005 - Sep 2010 u00b7 5 yrs 5 mos",
+        "description": "Chalk Media created the first mobile software for enterprise.\nUPDATE:  Research in Motion acquired Chalk Media as of Jan, 2009."
+      },
+      {
+        "title": "Transition after acquisition",
+        "company": "Smartforce",
+        "duration": "Apr 2001 - Mar 2002 u00b7 1 yr",
+        "description": "After we sold to Smartforce, my role was to assist with the transition."
+      }
+    ],
+    "education": [
+      {
+        "school": "Harvard University",
+        "degree": "Master's degree, Management Information Systems, General",
+        "duration": "2011 - 2012",
+        "description": "This Masters degree with specialization in IT Management was a mix of software engineering and software management practices.  I took engaging masters level courses in new languages and technologies at the time such as Ruby on Rails, native Android, native iPhone, Hadoop, etc.  I also took various MBA business courses as part of my requirements.  I finished it on a part time basis in 2011."
+      },
+      {
+        "school": "Mindshare",
+        "degree": null,
+        "duration": "2011 - 2012",
+        "description": "Mindshare alumni"
+      },
+      {
+        "school": "University of New Brunswick",
+        "degree": null,
+        "duration": null,
+        "description": null
+      }
+    ],
+    "skills": [
+      {
+        "name": "SaaS"
+      },
+      {
+        "name": "Executive Management"
+      }
+    ],
+    "recommendations": [
+      {
+        "name": "Stewart Walchli",
+        "description": "Jody was an excellent partner, leader and communicator.  We worked together for several years, culminating in the sale of Chalk Media to RIM in 2009.  Under Jody's direction, we built an excellent product that was scalable to millions of users, a critical factor that lead to our acquisition by RIM."
+      },
+      {
+        "name": "Don Whitty",
+        "description": "Coming from a tiny city, in a tiny province comes this whirlwind with a Titan's heart.  His connections are unparalled, his knowledge broad and deep.  He personifies execution and things that he touch always seem to succeed."
+      }
+    ],
+    "patents": [
+      {
+        "title": "SYSTEM, NETWORK AND METHOD FOR MULTI-PLATFORM PUBLISHING AND SYNCHRONIZED CONTENT",
+        "date": "May 4, 2009",
+        "id": "US 435,232",
+        "description": "A method for synchronizing content delivery to a plurality of delivery devices of a user."
+      },
+      {
+        "title": "METHOD AND SYSTEM FOR PUSHING CONTENT TO MOBILE DEVICES",
+        "date": "May 2, 2008",
+        "id": "US 12598785",
+        "description": null
+      }
+    ],
+    "awards": [
+      {
+        "title": "E&Y Entrepreneur of the year",
+        "date": "Jan 2014",
+        "description": "2014 Finalist"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "French"
+      }
+    ],
+    "interests": {
+      "topVoices": [
+        {
+          "name": "Stephen Balkam",
+          "title": "Founder & CEO, Family Online Safety Institute"
+        },
+        {
+          "name": "Reid Hoffman",
+          "title": "Co-Founder, LinkedIn & Inflection AI. Author of Superagency. Investor at Greylock."
+        }
+      ],
+      "companies": [
+        "Harvard University",
+        "City of Miami"
+      ],
+      "groups": [
+        "Legal Marketing Association",
+        "Entrepreneur's Network = Eprenz.com"
+      ],
+      "newsletters": [
+        {
+          "name": "AI & Emerging Tech Vibe Check",
+          "description": "Much like the wheel of Fortuna, the AI news cycle churns swiftly forward with no regard for us mere mortals.",
+          "url": "https://www.linkedin.com/newsletters/7108968138389557248",
+          "people": "Kassi Burns"
+        },
+        {
+          "name": "Canada Workforce Insights",
+          "description": "Regular insights about the Canadian economy and today's job outlook, powered by LinkedIn's unique data resources.",
+          "url": "https://www.linkedin.com/newsletters/6663125450832781312",
+          "people": "Riva Gold"
+        }
+      ],
+      "schools": [
+        "University of New Brunswick",
+        "Harvard University"
+      ]
+    },
+    "causes": []
+  }
+}

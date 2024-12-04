@@ -1,0 +1,21 @@
+{
+  "name": "sec_13_demo",
+  "version": "1.0.0",
+  "main": "sec13d-parser.js",
+  "scripts": {
+    "start": "node server.js",
+    "experiment:sec": "node experiments/sec_filing/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "experiment:linkedin": "node experiments/linkedin_profile/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "agentql": "^1.6.1",
+    "axios": "^1.7.8",
+    "cheerio": "^1.0.0",
+    "express": "^4.21.1"
+  }
+}

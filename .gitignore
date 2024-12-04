@@ -1,0 +1,8 @@
+# basic
+.env
+
+# playwright
+playwright/
+
+# agentql
+node_modules/
